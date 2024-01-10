@@ -1,1 +1,1 @@
-Amazin clone using react
+Amazon clone using react
